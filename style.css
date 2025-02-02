@@ -48,6 +48,12 @@
     max-width: 260px;
 }
 
+/*HOME*/
+.home{
+    width: %;
+}
+    
+
 /* CONTENT (text-content sama image-content) */
 .content {
     margin: 10px;
