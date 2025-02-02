@@ -50,7 +50,9 @@
 
 /*HOME*/
 .home{
-    width: %;
+    width: 100%;
+    display: flex;
+    background-color: blue;
 }
     
 
