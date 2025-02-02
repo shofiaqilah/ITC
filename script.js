@@ -11,7 +11,7 @@ function bumi() {
 }
 
 document.getElementById('bumi').addEventListener('click', function () {
-    imgSlider('/img/1.jpg');
+    imgSlider('./img/1.jpg');
     bumi();
 });
 
@@ -23,7 +23,7 @@ function bulan() {
 }
 
 document.getElementById('bulan').addEventListener('click', function () {
-    imgSlider('/img/2.jpg');
+    imgSlider('./img/2.jpg');
     bulan();
 });
 
@@ -35,7 +35,7 @@ function matahari() {
 }
 
 document.getElementById('matahari').addEventListener('click', function () {
-    imgSlider('/img/3.jpg');
+    imgSlider('./img/3.jpg');
     matahari();
 });
 
@@ -47,7 +47,7 @@ function bintang() {
 }
 
 document.getElementById('bintang').addEventListener('click', function () {
-    imgSlider('/img/4.jpg');
+    imgSlider('./img/4.jpg');
     bintang();
 });
 
@@ -59,7 +59,7 @@ function komet() {
 }
 
 document.getElementById('komet').addEventListener('click', function () {
-    imgSlider('/img/5.jpg');
+    imgSlider('./img/5.jpg');
     komet();
 });
 
@@ -71,6 +71,6 @@ function kometminor() {
 }
 
 document.getElementById('kometminor').addEventListener('click', function () {
-    imgSlider('/img/6.jpg');
+    imgSlider('./img/6.jpg');
     kometminor();
 });
