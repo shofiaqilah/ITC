@@ -101,6 +101,14 @@
 }
 /* --------------------------------------------------------------- */
 
+/*HOME*/
+.home{
+    width: 100%;
+    display: flex;
+    background-color: blue;
+}
+    
+
 /* CONTENT (text-content sama image-content) */
 .content {
     padding-top: 5%;
